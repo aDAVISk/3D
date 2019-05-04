@@ -1,7 +1,8 @@
 # Entanglement-Free Reel
 This repository will release you from the fear of your printing filament entangled.<br>
 <br>
-This repository is under GNU LESSER GENERAL PUBLIC LICENSE (Version 3, 29 June 2007).<br>
+This repository is under GNU Lesser General Public License (Version 3, 29 June 2007).<br>
+Plese check LICENSE file for details.
 <br>
 ### Description of Files
 * reel9_base_small.stl : main object which we call "base" hereafter.
