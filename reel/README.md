@@ -25,3 +25,6 @@ Print two "supports" (provided in this repository or your design with a hole of 
 
 ### How to Use
 Weave your filament around the sticks of the reel.
+
+### Acknowledgement
+This project is a result of working in Unit of Synergetic Studies for Space (USSS), Kyoto University.  I thank their supports.
